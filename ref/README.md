@@ -1,3 +1,5 @@
+Tasks for the Greatest Team @holberton James T. and Chris W.
+
 # Everything you need to know to start coding your own shell
 Low-level programming & Algorithm
 
