@@ -15,7 +15,7 @@ int main()
 	size_t bufsize = 256;
 
 
-	buffer = (char *)malloc(bufsize * sizeof(char));
+	buffer = malloc(bufsize * sizeof(char));
 
 	if( buffer == NULL)
 	{
